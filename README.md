@@ -2,14 +2,14 @@ This repository includes the essential files from the project 'Unveiling the Pow
 
 **About the project:**
 
-This research project explores the potential of utilizing social media data to pre- dict election outcomes, with a focus on the context of the 2018 Mexican general elec- tion. Through an analysis of YouTube live chat comments during presidential debates streams and employing large language models, the study pursues two primary objec- tives. Firstly, it aims to evaluate the accuracy of electoral outcome predictions using social media data and GPT models within the Mexican context. Secondly, the project aims to establish a comparative analysis between the forecasts derived from YouTube live chat comments and the predictions generated through conventional public opin- ion polls that were published during the campaign period. The findings of this study unveil intriguing outcomes: while social media comments demonstrate proficiency in identifying leading candidates, they encounter challenges when it comes to accurately predicting the precise ranking of candidate preferences and approximating vote per- centages. This outcome underscores the complexities inherent in achieving representa- tive samples from social media data, highlighting the significance of diversifying data sources in election forecasting with social media data.
+This research project explores the potential of utilizing social media data to pre- dict election outcomes, with a focus on the context of the 2018 Mexican general election. Through an analysis of YouTube live chat comments during presidential debates streams and employing large language models, the study pursues two primary objectives. Firstly, it aims to evaluate the accuracy of electoral outcome predictions using social media data and GPT models within the Mexican context. Secondly, the project aims to establish a comparative analysis between the forecasts derived from YouTube live chat comments and the predictions generated through conventional public opinion polls that were published during the campaign period. The findings of this study unveil intriguing outcomes: while social media comments demonstrate proficiency in identifying leading candidates, they encounter challenges when it comes to accurately predicting the precise ranking of candidate preferences and approximating vote percentages. This outcome underscores the complexities inherent in achieving representa- tive samples from social media data, highlighting the significance of diversifying data sources in election forecasting with social media data.
 
 
 **Files in this repository:**
 
 - Youtube Comments Retrieval: Utilize 'youtube_comments.ipynb' to effortlessly collect comments from YouTube videos. Tailor this file to your specific video of interest.
 
-- Sentiment Analysis with GPT Models: Leverage 'gpt.ipynb,' specifically targeting the 'text-davinci-003' model from the OpenAI API. Uncover sentiment insights from the video comments.
+- Sentiment Analysis with GPT Models: Leverage 'gpt.ipynb,' specifically targeting the 'text-davinci-003' model from the OpenAI API to uncover sentiment insights from the video comments.
 
 **Prerequisites:**
 
